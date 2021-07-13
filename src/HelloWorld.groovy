@@ -16,8 +16,14 @@ class HelloWorld {
         println("6.2 - 4.5 = " + (6.2.minus(4.5)))
         println("6.2 * 4.5 = " + (6.2.multiply(4.5)))
         println("6.2 / 4.5 = " + (6.2 / 4.5))
-        
-        
+        println("\n")
+
+        def age = 25
+        println("age++ = " + (age++))
+        println("++age = " + (++age))
+        println("age-- = " + (age--))
+        println("--age = " + (--age))
+
 
     }
 }
