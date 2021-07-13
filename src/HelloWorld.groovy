@@ -47,6 +47,7 @@ class HelloWorld {
         println("Math.sin(0.5 * Math.PI) = " + (Math.sin(0.5 * Math.PI)))
         println("\n")
 
+        //
         //random
         println("Math.abs(new Random().nextInt() % 100) + 1 = " + (Math.abs(new Random().nextInt() % 100) + 1))
     }
