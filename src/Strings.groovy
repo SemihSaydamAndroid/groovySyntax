@@ -32,5 +32,7 @@ class Strings {
         println("A $dummyString string")
         printf("A %s string \n", dummyString) //%s yerine stringin gidip yerleşecektir
         printf(" %-30s %d %.2f %10s \n", ['Something', 10, 1.234, 'dummy']) //-30 stringin sağına , 10 ise soluna boşluk atıyor.
+        //%.2f float yazcan ama virgül sonrası 2 basamak diyorsun
+        //%d double veya integer
     }
 }
