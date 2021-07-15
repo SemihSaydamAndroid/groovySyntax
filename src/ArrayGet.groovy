@@ -10,7 +10,15 @@ class ArrayGet {
         array.add(3)
         println("eleman eklendi, dizinin yeni eleman sayısı : " + array.size() + "\n" + "yeni liste : " + array + "\n")
 
-        array<<5
+        array + [29,30]
+        array - [30]
+        println("Is empty" + array.isEmpty())
+        println("Birinciden dördüncüye kadar" + array[0..3])
+
+        println("Matches " + array.intersect([2,3,4]))
+        println("Reverse " + array.reverse())
+        println("Sort " + array.sort())
+        println("Son eleman " + array.pop())
 
         def allTypeArray = ['Semih', 40, 4.3, [3,4,5]]
         println("ilk eleman : " + allTypeArray[0])
