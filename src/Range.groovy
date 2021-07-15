@@ -11,6 +11,8 @@ class Range {
 
         println("Size integer range : " + oneToFive.size())
         println("2nd item is : " + oneToFive.get(1))
+        println("First item is : " + oneToFive.getFrom())
+        println("Last item is : " + oneToFive.getTo())
         println("Size alphabet range : " + aToZ.size())
     }
 
