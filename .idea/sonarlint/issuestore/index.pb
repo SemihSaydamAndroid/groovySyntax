@@ -7,3 +7,9 @@ B
 src/Strings.groovy,e/5/e53162c527ed1dc9b377314d81fdad9d95ad2a6a
 C
 src/ArrayGet.groovy,8/f/8f7d0f8fd22c2f062a1675de5a472981edcefa65
+F
+src/InputString.groovy,1/f/1f38fb4018a89ea13cf2a86bfa906d194c7e28b3
+@
+src/Range.groovy,b/0/b0fda7cdbd0531e722929d520db07c032d19c4d3
+>
+src/Map.groovy,5/2/520b03f36df48703ef5e695e6bf4073c809ff093
