@@ -13,3 +13,5 @@ F
 src/Range.groovy,b/0/b0fda7cdbd0531e722929d520db07c032d19c4d3
 >
 src/Map.groovy,5/2/520b03f36df48703ef5e695e6bf4073c809ff093
+D
+src/Operators.groovy,6/b/6b00fc4ad79c0eb2644f720f62dbc5b36b762327
