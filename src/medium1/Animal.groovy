@@ -1,3 +1,5 @@
+package medium1
+
 import groovy.transform.ToString
 
 @ToString(includeNames = true, includeFields = true)

@@ -1,3 +1,5 @@
+package medium1
+
 class Dog extends Animal{
     def owner
 

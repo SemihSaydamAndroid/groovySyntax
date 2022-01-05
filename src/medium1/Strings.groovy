@@ -1,3 +1,5 @@
+package medium1
+
 class Strings {
     static void main(String[] args) {
 

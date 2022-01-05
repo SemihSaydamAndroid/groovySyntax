@@ -1,3 +1,5 @@
+package medium1
+
 class OtherClassAnimal {
     static void main(String[] args) {
 

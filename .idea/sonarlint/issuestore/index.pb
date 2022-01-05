@@ -15,3 +15,7 @@ F
 src/Map.groovy,5/2/520b03f36df48703ef5e695e6bf4073c809ff093
 D
 src/Operators.groovy,6/b/6b00fc4ad79c0eb2644f720f62dbc5b36b762327
+D
+src/eachAndIt.groovy,c/7/c7541e8b7b48fcab0863ce3bae57ed1b1892ec29
+D
+src/Functions.groovy,9/3/93b985d565ea4f68501c2989ce9133dcf2dd9d0a

@@ -1,3 +1,5 @@
+package medium1
+
 class HelloWorld {
     static void main(String[] args) {
 

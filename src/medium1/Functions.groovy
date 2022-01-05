@@ -1,3 +1,5 @@
+package medium1
+
 class Functions {
     static void main(String[] args) {
         sayMyName()

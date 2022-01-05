@@ -1,3 +1,5 @@
 # groovySyntax
 
-### Medium blog link :
+### Medium blog link : 
+ ##### medium1 : https://semihsaydam.medium.com/groovy-2efd7c0ae48d
+ ##### medium2 : 

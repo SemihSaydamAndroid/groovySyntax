@@ -1,3 +1,5 @@
+package medium1
+
 class eachAndIt {
 
     static void main(String[] args) {

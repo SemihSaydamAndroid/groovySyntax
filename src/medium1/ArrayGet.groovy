@@ -1,3 +1,5 @@
+package medium1
+
 class ArrayGet {
 
     static void main(String[] args) {

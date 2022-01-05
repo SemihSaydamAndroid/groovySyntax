@@ -1,3 +1,5 @@
+package medium1
+
 class Operators {
 
     static void main(String[] args) {

@@ -1,3 +1,5 @@
+package medium1
+
 class InputString {
     static void main(String[] args) {
 
