@@ -8,6 +8,9 @@ import groovy.transform.Immutable
 @Immutable
 class Customer {
 
+    // for more information ASTTransformations
+    // http://docs.groovy-lang.org/next/html/gapi/groovy/transform/package-summary.html
+
     String first, last
     int age
     Date since
