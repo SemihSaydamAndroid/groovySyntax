@@ -1,4 +1,4 @@
-package medium2.astTransformations
+package medium2.astTransformations.Immutable
 
 import groovy.transform.Immutable
 /**

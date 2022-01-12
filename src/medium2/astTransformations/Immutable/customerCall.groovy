@@ -1,4 +1,7 @@
-package medium2.astTransformations
+package medium2.astTransformations.Immutable
+
+import medium2.astTransformations.Immutable.Customer
+
 /**
  * @author Semih Saydam
  * @since 12.01.2022
