@@ -21,6 +21,9 @@ class Customer {
         def p2 = new Customer(first: "Esra", last: "Saydam")
         def people = [p1, p2]
         println(people)
+
+        def sorted = people.sort(false /* do not mutate original collencion */ )
+        println( sorted )
     }
 
 }
