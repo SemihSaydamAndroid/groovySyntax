@@ -54,6 +54,9 @@ class RegEx {
 
         if (matcher2){/*  do something  */  }
 
+        text2 = text.replaceFirst(pattern4,"semikko")
+        println(text2)
+
     }
 
 }

@@ -39,3 +39,7 @@ l
 <src/medium2/astTransformations/Immutable/customerCall.groovy,2/b/2be98b09b76e1bcddd56ab1d4faab6ce0a89c193
 h
 8src/medium2/astTransformations/Canonical/Customer.groovy,d/6/d651ceba0534c887c0f4be1a3418729388aa5eb6
+g
+7src/medium2/astTransformations/sortable/Customer.groovy,a/9/a902bc357d53f2ecfca6530dfe4569e60cbb2edd
+U
+%src/medium2/OperatorsAndGrapes.groovy,d/5/d5a67514ae280e274ad89d54a37a87c089b861f1
