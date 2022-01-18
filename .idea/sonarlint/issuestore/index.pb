@@ -7,8 +7,6 @@ H
 src/medium1/Range.groovy,9/d/9d03ae6f16f3349ab44ec739ed7fd15ec8c985a6
 J
 src/medium1/Strings.groovy,c/c/cc344b85f30069911711c63876d941db757cc61b
-9
-	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 N
 src/medium1/InputString.groovy,4/5/45b5ec92caa5e05eebe98237ca02ec068ef2722e
 S
@@ -19,8 +17,6 @@ L
 src/medium1/Functions.groovy,4/5/45f7bbf18b4a137dbdb1e565a1e82283b8fd5ab9
 I
 src/medium1/FileOp.groovy,4/5/45b481a3e97f54cd12458bd91993ec7b1609c66c
-L
-src/medium1/eachAndIt.groovy,c/5/c51e471da862d5db89edb85e26a8af5908bf693a
 F
 src/medium1/Dog.groovy,d/c/dc572670693e7953a49f1fd6a9bf1fae8911b8b1
 D
@@ -43,3 +39,9 @@ g
 7src/medium2/astTransformations/sortable/Customer.groovy,a/9/a902bc357d53f2ecfca6530dfe4569e60cbb2edd
 U
 %src/medium2/OperatorsAndGrapes.groovy,d/5/d5a67514ae280e274ad89d54a37a87c089b861f1
+L
+src/medium1/eachAndIt.groovy,c/5/c51e471da862d5db89edb85e26a8af5908bf693a
+H
+src/medium2/RegEx.groovy,d/d/ddd2fda73223b57ca4864ee3b4c12e7a1a5a72e8
+N
+src/medium3/RangeMedium.groovy,6/b/6b9ab1718ff0a4b4dd729b252656af3e3249df1f
