@@ -45,3 +45,11 @@ H
 src/medium2/RegEx.groovy,d/d/ddd2fda73223b57ca4864ee3b4c12e7a1a5a72e8
 N
 src/medium3/RangeMedium.groovy,6/b/6b9ab1718ff0a4b4dd729b252656af3e3249df1f
+H
+src/medium3/Lists.groovy,3/f/3fa9e2aedf50f36e5e722fbff78425b81bc6d122
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+H
+src/medium3/Enums.groovy,6/7/6723464ee1898598f9afe4a94076c2e9a35e4e13
+G
+src/medium3/Maps.groovy,2/4/24e385b912fe709f9b8b477353e2f522125a6aba
