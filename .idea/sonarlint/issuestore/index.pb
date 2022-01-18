@@ -53,3 +53,9 @@ H
 src/medium3/Enums.groovy,6/7/6723464ee1898598f9afe4a94076c2e9a35e4e13
 G
 src/medium3/Maps.groovy,2/4/24e385b912fe709f9b8b477353e2f522125a6aba
+]
+-src/medium4Closures/CollectionsMethods.groovy,a/c/acc13c184758e55a296344745ddcd7e2cec9e83f
+Y
+)src/medium4Closures/Closure_params.groovy,0/e/0e66f2a1de1f45a13e1aedf28b197b8a0e57f8da
+W
+'src/medium4Closures/CurryMethods.groovy,9/0/9019611ca693a2d355643859336f8dd6b1d719a4
