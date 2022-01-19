@@ -41,8 +41,6 @@ U
 %src/medium2/OperatorsAndGrapes.groovy,d/5/d5a67514ae280e274ad89d54a37a87c089b861f1
 L
 src/medium1/eachAndIt.groovy,c/5/c51e471da862d5db89edb85e26a8af5908bf693a
-H
-src/medium2/RegEx.groovy,d/d/ddd2fda73223b57ca4864ee3b4c12e7a1a5a72e8
 N
 src/medium3/RangeMedium.groovy,6/b/6b9ab1718ff0a4b4dd729b252656af3e3249df1f
 H
@@ -59,3 +57,9 @@ Y
 )src/medium4Closures/Closure_params.groovy,0/e/0e66f2a1de1f45a13e1aedf28b197b8a0e57f8da
 W
 'src/medium4Closures/CurryMethods.groovy,9/0/9019611ca693a2d355643859336f8dd6b1d719a4
+\
+,src/medium4Closures/Closures_examples.groovy,4/6/46306dba98dbbf1a5b63c0f61227516474f758c4
+[
++src/medium4Closures/ClosureDelegate2.groovy,b/8/b8e935eebff66567812ee242db9cf2184077442e
+Z
+*src/medium4Closures/ClosureDelegate.groovy,2/2/227066cc6f5f062fe6a9843c91e5b6de70459374
