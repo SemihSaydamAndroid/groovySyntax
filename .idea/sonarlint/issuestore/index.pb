@@ -43,8 +43,6 @@ L
 src/medium1/eachAndIt.groovy,c/5/c51e471da862d5db89edb85e26a8af5908bf693a
 N
 src/medium3/RangeMedium.groovy,6/b/6b9ab1718ff0a4b4dd729b252656af3e3249df1f
-H
-src/medium3/Lists.groovy,3/f/3fa9e2aedf50f36e5e722fbff78425b81bc6d122
 9
 	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 H
@@ -63,3 +61,11 @@ W
 +src/medium4Closures/ClosureDelegate2.groovy,b/8/b8e935eebff66567812ee242db9cf2184077442e
 Z
 *src/medium4Closures/ClosureDelegate.groovy,2/2/227066cc6f5f062fe6a9843c91e5b6de70459374
+H
+src/medium2/RegEx.groovy,d/d/ddd2fda73223b57ca4864ee3b4c12e7a1a5a72e8
+f
+6src/medium5ControlStructures/ControlStructures1.groovy,b/2/b2cb2b1067c6f1ca5c5e0c39eedb2d65ee48cf36
+f
+6src/medium5ControlStructures/ControlStructures2.groovy,3/7/37ace6bb57905307d1fd5c29ea228679802f10bc
+M
+.idea/azure/azureSettings.xml,8/f/8ffefcd27b7a105a8611aa8c1662342b4281ef07

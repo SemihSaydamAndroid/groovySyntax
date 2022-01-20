@@ -60,7 +60,8 @@ class ReviewClosures {
         def kastamonulular = peopleCity["Kastamonu"]
 
         zonguldaklilar.each {println(it.name)} //Semih Mehmet Filiz
-
+        println("tek satırda yazmak : ")
+        println(people.groupBy {person -> person.city}["Zonguldak"].each {println(it.name)}) //findAll sonrası .each ile devam etme denemesi.
 
     }
 
