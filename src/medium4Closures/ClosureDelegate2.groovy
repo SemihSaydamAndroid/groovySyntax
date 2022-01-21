@@ -24,6 +24,6 @@ class ClosureDelegate2 {
     //Böylelikle çalışabilmiş oluyor.
 
     static def append(String s){
-        println("append() methodu $s argümanı ile çağırıldı")
+        println("append() methodu $s argümani ile çağirildi")
     }
 }
