@@ -8,3 +8,5 @@ Documentation'ı çok kapsamlı XmlSlurper : http://www.groovy-lang.org/api.html
 
 GroovyDoc: http://www.groovy-lang.org/api.html
 GroovyGDK: http://www.groovy-lang.org/gdk.html
+
+[![Labeler](https://github.com/SemihSaydamAndroid/groovySyntax/actions/workflows/label.yml/badge.svg)](https://github.com/SemihSaydamAndroid/groovySyntax/actions/workflows/label.yml)
