@@ -1,0 +1,24 @@
+* The mop is collection of rules of how a request for a method call is handled by the Groovy runtime system and how to control the indermediate layer
+
+            Complied with groovyc       Compield with javac
+* Caller      Groovy                        Java
+                |    |                          |
+                |      |                     |  |
+                |    MOP  |            | | |    |
+                |            |       |          |
+                |     |   |  |  |  | |   |  |   |
+  Target       Groovy                       Java
+
+
+- POJO - a reguler java object, whose class can be written in java or any other language for the jvm
+- POGO - a groovy object, whose class is written in groovy. It extends java.lang.Object and implements the groovy.lang.GroovyObject
+- Groovy Interceptor A groovy object that implements the groovy.lang.GroovyInterceptable interface and has method-interception capability
+
+Customizing the MOP with hooks
+- GroovyObject
+    - Employee.groovy
+- invokeMethod()
+- get property
+- property missing
+- set property
+- method missing
