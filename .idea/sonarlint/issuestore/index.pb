@@ -41,8 +41,6 @@ L
 src/medium1/eachAndIt.groovy,c/5/c51e471da862d5db89edb85e26a8af5908bf693a
 N
 src/medium3/RangeMedium.groovy,6/b/6b9ab1718ff0a4b4dd729b252656af3e3249df1f
-9
-	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 H
 src/medium3/Enums.groovy,6/7/6723464ee1898598f9afe4a94076c2e9a35e4e13
 G
@@ -95,3 +93,29 @@ H
 ,src/medium6oop/groovyBeans/DoubleBean.groovy,c/0/c0c66556e77566743d6d9f2d9b255609882024d2
 f
 6src/medium5ControlStructures/ControlStructures1.groovy,b/2/b2cb2b1067c6f1ca5c5e0c39eedb2d65ee48cf36
+f
+6src/medium5ControlStructures/ControlStructures2.groovy,3/7/37ace6bb57905307d1fd5c29ea228679802f10bc
+Y
+)src/mediumMetaProgramming/runtime/mop.txt,3/f/3fb301644b16d19eafb774c9a478f3eb7691f2d1
+h
+8src/mediumMetaProgramming/runtime/SetPropertyDemo.groovy,8/d/8d758383cdd45e12ca3c466c414effd605b70f81
+f
+6src/mediumMetaProgramming/runtime/MissingMethod.groovy,e/3/e39daec464eadffd1571eb5beeda812926ebfdd2
+a
+1src/mediumMetaProgramming/runtime/Employee.groovy,a/c/ac68e2427a35f2203a5932c6cb9783f34b535492
+c
+3src/mediumMetaProgramming/runtime/InvokeDemo.groovy,1/2/12f24a4a083b37b35a59210060c784992b32ad7f
+h
+8src/mediumMetaProgramming/runtime/GetPropertyDemo.groovy,4/7/4715668f09971affcab051ae7815218952ea15e6
+i
+9src/mediumMetaProgramming/runtime/propertyMissings.groovy,a/7/a79779a63a1dc24b65d0bb3f79417dc112cd0300
+f
+6src/mediumMetaProgramming/runtime/MetaClassDemo.groovy,3/f/3ff1ffa4368491b793d1d5f1ca4adaf0a6d265e7
+x
+Hsrc/mediumMetaProgramming/runtime/categortyClasses/StringCategory.groovy,6/8/682973066ae5513e128d96606a2fa7f5f968d59e
+m
+=src/mediumMetaProgramming/runtime/categortyClasses/cat.groovy,a/1/a18b42e0eedc0d9cfd816a902b4072bf31db81b7
+n
+>src/mediumMetaProgramming/runtime/categortyClasses/time.groovy,1/7/171fb563876cf451c99650729517c50361c7e839
+‚
+Rsrc/mediumMetaProgramming/runtime/interceptCacheInvoke/InterceptCacheInvoke.groovy,f/c/fc6fa6c2c5322e5d7efddcab0052c97d1b708e99
