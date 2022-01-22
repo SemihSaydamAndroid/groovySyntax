@@ -33,8 +33,6 @@ h
 8src/medium2/astTransformations/Immutable/Customer.groovy,8/d/8d4a0822684110d4d2602a30ea5f0df5c48249de
 l
 <src/medium2/astTransformations/Immutable/customerCall.groovy,2/b/2be98b09b76e1bcddd56ab1d4faab6ce0a89c193
-h
-8src/medium2/astTransformations/Canonical/Customer.groovy,d/6/d651ceba0534c887c0f4be1a3418729388aa5eb6
 g
 7src/medium2/astTransformations/sortable/Customer.groovy,a/9/a902bc357d53f2ecfca6530dfe4569e60cbb2edd
 U
@@ -61,11 +59,17 @@ W
 +src/medium4Closures/ClosureDelegate2.groovy,b/8/b8e935eebff66567812ee242db9cf2184077442e
 Z
 *src/medium4Closures/ClosureDelegate.groovy,2/2/227066cc6f5f062fe6a9843c91e5b6de70459374
-H
-src/medium2/RegEx.groovy,d/d/ddd2fda73223b57ca4864ee3b4c12e7a1a5a72e8
 f
 6src/medium5ControlStructures/ControlStructures1.groovy,b/2/b2cb2b1067c6f1ca5c5e0c39eedb2d65ee48cf36
 f
 6src/medium5ControlStructures/ControlStructures2.groovy,3/7/37ace6bb57905307d1fd5c29ea228679802f10bc
 M
 .idea/azure/azureSettings.xml,8/f/8ffefcd27b7a105a8611aa8c1662342b4281ef07
+f
+6src/medium5ControlStructures/ControlStructures3.groovy,b/9/b92c2a1fcf708394fe93519cb528700bb2c7929d
+H
+src/medium3/Lists.groovy,3/f/3fa9e2aedf50f36e5e722fbff78425b81bc6d122
+Z
+*src/medium6oop/traits/FlyingAbility.groovy,7/c/7c4fb201c5a39962bdbad0240550d47678d59dba
+Y
+)src/medium4Closures/ReviewClosures.groovy,c/6/c69a5e7c7a16322a1bd19431dc34c63583e0330e
