@@ -59,10 +59,6 @@ W
 +src/medium4Closures/ClosureDelegate2.groovy,b/8/b8e935eebff66567812ee242db9cf2184077442e
 Z
 *src/medium4Closures/ClosureDelegate.groovy,2/2/227066cc6f5f062fe6a9843c91e5b6de70459374
-f
-6src/medium5ControlStructures/ControlStructures1.groovy,b/2/b2cb2b1067c6f1ca5c5e0c39eedb2d65ee48cf36
-f
-6src/medium5ControlStructures/ControlStructures2.groovy,3/7/37ace6bb57905307d1fd5c29ea228679802f10bc
 M
 .idea/azure/azureSettings.xml,8/f/8ffefcd27b7a105a8611aa8c1662342b4281ef07
 f
@@ -73,3 +69,29 @@ Z
 *src/medium6oop/traits/FlyingAbility.groovy,7/c/7c4fb201c5a39962bdbad0240550d47678d59dba
 Y
 )src/medium4Closures/ReviewClosures.groovy,c/6/c69a5e7c7a16322a1bd19431dc34c63583e0330e
+a
+1src/medium6oop/ClassesFieldsLocalVairables.groovy,1/7/17992d5ac054433eef8426acd35df1f4f3b01c41
+T
+$src/medium6oop/IPersonService.groovy,7/6/7686adda7610bfdff5bf02653cdcc2ea1e96ae8a
+\
+,src/medium6oop/traits/SpeakingAbility.groovy,0/e/0efa33dd707e4379220bdf0a45d3b3e1ce978668
+X
+(src/medium6oop/ConstructorMethods.groovy,6/3/63279832231e0fd405760debecf4a0c052cc6112
+Q
+!src/medium6oop/traits/Bird.groovy,4/1/41772813797ebffc70d69bb8a1f5258d355c5f91
+h
+8src/medium2/astTransformations/Canonical/Customer.groovy,d/6/d651ceba0534c887c0f4be1a3418729388aa5eb6
+[
++src/medium6oop/groovyBeans/Groovy Beans.txt,d/3/d302e078265a84a414eb436a564bcfaf354075e1
+\
+,src/medium6oop/groovyBeans/EmployeeBean.java,1/f/1f2c2899f21281524478b2d816aee9902e2ce496
+K
+src/medium6oop/Tweet.groovy,c/9/c9e0ab3a21cb1f91a74d1df718a30870453d5e54
+d
+4src/medium6oop/groovyBeans/EmployeeBeanGroovy.groovy,a/4/a4c2538d17d928e8e72156145e1d190aabc6df7c
+H
+src/medium2/RegEx.groovy,d/d/ddd2fda73223b57ca4864ee3b4c12e7a1a5a72e8
+\
+,src/medium6oop/groovyBeans/DoubleBean.groovy,c/0/c0c66556e77566743d6d9f2d9b255609882024d2
+f
+6src/medium5ControlStructures/ControlStructures1.groovy,b/2/b2cb2b1067c6f1ca5c5e0c39eedb2d65ee48cf36
