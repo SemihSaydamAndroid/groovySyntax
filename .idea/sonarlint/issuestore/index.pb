@@ -123,3 +123,5 @@ Rsrc/mediumMetaProgramming/runtime/interceptCacheInvoke/InterceptCacheInvoke.gro
 	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 g
 7src/mediumMetaProgramming/RuntimeMetaprogramming.groovy,7/a/7a5926d710a5d765aa61f9ce072fa5128653d693
+d
+4src/mediumCompileTimeMetaProg/tostring/Person.groovy,c/c/cc641de4d70afb7dba09b758c021157320fa46a9
