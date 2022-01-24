@@ -145,3 +145,15 @@ l
 <src/mediumCompileTimeMetaProg/compileStatic/someClass.groovy,5/d/5db598c7bdb996c2f10531e1c80eb7e1f6cca2e5
 l
 <src/mediumCompileTimeMetaProg/ReviewASTTransformation.groovy,0/1/019acdd9e7a6537b8d9c154f1743df7785c815bd
+T
+$src/restServices/xml/data/sports.xml,b/c/bc88cd3af67de2ce914ba5febec5de7de7406657
+Z
+*src/workingWithBuilders/xmlExercise.groovy,6/9/69890ac194813a7161ce660f01b419dc62ace29c
+R
+"src/workingWithBuilders/xml.groovy,a/4/a4123f356b85e60bf79b33499420b6f1e66c403d
+f
+6src/workingWithBuilders/objectGraphBuilder/Book.groovy,8/6/86f0fa9ffde0436a5c0971a485bd7c632ab01251
+S
+#src/workingWithBuilders/json.groovy,7/3/7394a967b6b93e6f5cb8307042b8cdc863e6ea84
+S
+#src/workingWithBuilders/html.groovy,e/0/e00c2c3aa2db2c84717138e87e5005b0aceb3461
