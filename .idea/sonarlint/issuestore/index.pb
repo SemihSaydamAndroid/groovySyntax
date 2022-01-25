@@ -92,8 +92,6 @@ H
 \
 ,src/medium6oop/groovyBeans/DoubleBean.groovy,c/0/c0c66556e77566743d6d9f2d9b255609882024d2
 f
-6src/medium5ControlStructures/ControlStructures1.groovy,b/2/b2cb2b1067c6f1ca5c5e0c39eedb2d65ee48cf36
-f
 6src/medium5ControlStructures/ControlStructures2.groovy,3/7/37ace6bb57905307d1fd5c29ea228679802f10bc
 Y
 )src/mediumMetaProgramming/runtime/mop.txt,3/f/3fb301644b16d19eafb774c9a478f3eb7691f2d1
@@ -157,3 +155,23 @@ S
 #src/workingWithBuilders/json.groovy,7/3/7394a967b6b93e6f5cb8307042b8cdc863e6ea84
 S
 #src/workingWithBuilders/html.groovy,e/0/e00c2c3aa2db2c84717138e87e5005b0aceb3461
+T
+$src/restServices/json/data/book.json,3/6/36e2396bb2714e84424bc9828cec58ec2ca775df
+O
+src/restServices/xml/xml.groovy,f/3/f32a38f2a7441e4cae93dce8d87028d012228528
+T
+$src/restServices/xml/parsexml.groovy,4/1/41f906bf8069108edfd5e9a124ac85ad1691cdac
+C
+Groovy-WHDSCPLN.iml,e/e/ee57a057695a3967343b55e9cb76d3d63b32fa7b
+V
+&src/restServices/rest/simpleGET.groovy,3/0/308510b0bba0139b40f31c083d0af58aee881010
+Q
+!src/restServices/json/json.groovy,2/d/2d059ed3a0e875e350d9053c5751ad3118646eac
+V
+&src/restServices/json/parseJSON.groovy,6/e/6ebdf3f917251f2dded16ba283984c723b390c17
+W
+'src/restServices/rest/restClient.groovy,c/3/c3c2e5cbd2e9bc63ace702c4c309133639e1e5a2
+K
+src/GDK/FilesIO/dirs.groovy,9/e/9eceacfad270e8f19a3401f155a11acd7413d425
+f
+6src/medium5ControlStructures/ControlStructures1.groovy,b/2/b2cb2b1067c6f1ca5c5e0c39eedb2d65ee48cf36
